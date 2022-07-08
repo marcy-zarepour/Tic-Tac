@@ -11,7 +11,7 @@ The two players take turns putting marks on a 3x3 board. The goal of Tic Tac Toe
 2.	Player 1 and 2 take turns making moves with Player 1 playing mark “X” and Player 2 playing mark “O”.
 
 3.	A player marks any of the 3x3 squares with his mark (“X” or “O”) and their aim is to create a straight line horizontally, vertically or diagonally with two intensions:<br/>
-https://github.com/marcy-zarepour/Tic-Tac
+https://marcy-zarepour.github.io/Tic-Tac/
 ## Feedback and issues:
 
 We really appreciate your feedback. If you want to see some improvements in the app I'll be really grateful if you can drop me an email to marcy.zarepour@gmail.com
