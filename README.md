@@ -16,8 +16,7 @@ https://github.com/marcy-zarepour/Tic-Tac
 
 We really appreciate your feedback. If you want to see some improvements in the app I'll be really grateful if you can drop me an email to marcy.zarepour@gmail.com
 
-<p align="center">
-  <img src="/images/game.png" width="350" >
-  <img src="/images/tied.png" width="350" >
-</p>
+![images of game board](images/game.png)
+![images of game board](images/tied.png)
+
 
